@@ -89,7 +89,7 @@ Step-by-step
     The browser shows:
     
     Welcome Imran
-    Your understanding in one sentence
+    Understanding in one sentence
     
     index.html loads → 
     user submits form → 
