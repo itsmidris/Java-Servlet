@@ -1,9 +1,9 @@
 Question
-Explain the Request → Tomcat → Servlet → Response flow in Java Servlet.
-Explain the lifecycle of a request in a Servlet application.
-What happens when a user enters a URL in a browser and hits Enter?
-How does Tomcat interact with a Servlet?
-How does a Servlet process an HTTP request?
+1. Explain the Request → Tomcat → Servlet → Response flow in Java Servlet.
+2. Explain the lifecycle of a request in a Servlet application.
+3. What happens when a user enters a URL in a browser and hits Enter?
+4. How does Tomcat interact with a Servlet?
+5. How does a Servlet process an HTTP request?
 
 Answer:
 User sends an HTTP request from the browser. 
